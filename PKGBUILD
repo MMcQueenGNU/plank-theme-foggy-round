@@ -10,7 +10,7 @@ license=('GPL3')
 depends=('plank')
 makedepends=('git')
 source=("https://github.com/MMcQueenGNU/$_pkgname.git")
-sha256sums=('f55529f6279227652c25c81c1cb93dff2691e72c37c3028be694e787f903ec31')
+sha256sums=('ab8a9f1f9b2a34b54d8b180441945cd81254932c1942c5e61584de5668034109')
 
 build() {
 	true
